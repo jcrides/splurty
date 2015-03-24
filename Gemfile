@@ -7,6 +7,7 @@ gem 'rails', '4.2.0'
 gem 'pg'
 
 gem 'bootstrap-sass', '~> 3.3.0'
+gem "factory_girl_rails", "~> 4.0"
 gem 'quiet_assets', group: :development
 gem 'simple_form'
 
